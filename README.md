@@ -1,0 +1,2 @@
+# BigData-Proc-Analytics-Mapreduce-US-Income-Data-1990
+Write a MapReduce program to analyze the income data extracted from the 1990 U.S. Census data and determine whether most Americans make more than $50,000 or $50,000 or less a year in 1990. Provide the number of people who made more than $50,000 and the number of people who made $50,000 or less. Data Source : http://archive.ics.uci.edu/ml/datasets/Census+Income 
